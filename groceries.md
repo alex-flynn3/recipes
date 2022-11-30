@@ -1,6 +1,6 @@
 # Items
 - avocado
 - lime
-- tomatoe
+- tomatoes
 - salt
 - red onion

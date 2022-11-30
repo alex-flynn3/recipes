@@ -7,3 +7,4 @@
 
 # Instructions
 - mash all ingredients together
+- serve with nachos

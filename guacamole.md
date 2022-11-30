@@ -7,3 +7,4 @@
 
 # Instructions
 - mash all ingredients together
+- don't mash the tomatoes and onion though

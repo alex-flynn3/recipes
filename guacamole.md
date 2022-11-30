@@ -6,3 +6,4 @@
 - tomato (25p)
 
 # Instructions
+- mash all ingredients together
